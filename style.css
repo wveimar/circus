@@ -323,7 +323,7 @@ input:focus,input:active{
 3.Slider Start Here 
 ---------------------------------------*/
 .slider-area {
-  background: url(images/slider.png) no-repeat;
+  background: url(images/slider1.png) no-repeat;
   background-position: center center;
   background-size: cover;
 }
@@ -1437,8 +1437,7 @@ footer .widget .fliker ul li:hover a:before {
 .show-shedule-table .btn-brown {
 	min-width:inherit;
 	margin:21px 0 10px;
-	border-width:
--}
+	border-width:2px;}
 .show-shedule-table .btn-brown:hover {
     background: transparent;
     border-color: #ddb884;
